@@ -1,1 +1,0 @@
-# spring-monolith-ecommerce
