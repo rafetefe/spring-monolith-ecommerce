@@ -1,10 +1,7 @@
 
-	Further experience needed on practices:
+Design and Implementation of:
+Base entity models
+Service functions
+OpenAPI doc configuration
 
-	. Use cases of other components: lazy, prototype, sessional and per-request scope.
-
-	. Design principles about:
-		Interface controllers that map to services (like in this project)
- 		or real @Controllers that inject @Services.
-
-	. Needs better tests
+Resources:
