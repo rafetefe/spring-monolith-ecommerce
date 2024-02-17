@@ -6,4 +6,13 @@ Development continuation of previous branch (base-structure).
   
   Previous version moved to branch: base-structure
  
+---
 
+Run by
+
+    $ docker-compose up -d
+    $ bash ./buildAndRun.sh
+
+Docs are located at:
+    
+    localhost:8080/openapi/swagger-ui/index.html
